@@ -1,0 +1,88 @@
+.main{
+    border: 2px solid grey;
+    width:200px;
+    margin: 0 auto;
+    width: 200px;
+    height:250px;
+    margin-top: 40px;
+    background-color: slateblue;
+   border-style: none;
+    padding:15px;
+    
+}
+.res{
+    background-color: darkgrey;
+    width:95%;
+    padding: 5px;
+    border-style: none;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+}
+.res:focus{
+background-color: slategrey;}
+
+.btns{
+    background-color: darkgrey;
+    width: 100%;
+    margin-top: 2px;
+    border-style: none;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.btns:hover{
+    background-color: lightgrey;
+}
+.btns:focus{
+    background-color: slategrey;
+border-style: none;}
+    
+.btn{
+    width:45px;
+    
+    margin-top: 10px;
+    padding: 5px;
+    box-shadow: 1px 1px 1px 1px black;
+    background-color: darkgrey;
+}
+.btn:hover{
+    background-color: lightgrey;
+}
+.btn:focus{
+    background-color: slategrey;
+border-style: none;}
+
+.bt{
+    width:61px;
+   
+    margin-top: 10px;
+    padding: 5px;
+    box-shadow: 1px 1px 1px 1px black;
+    background-color: darkgrey;
+}
+.bt:hover{
+    background-color: lightgrey;
+}
+.bt:focus{
+    background-color: slategrey;
+border-style: none;}
+
+.b{
+    margin-left: 3px;
+    width:60px;
+   
+    margin-top: 10px;
+    padding: 5px;
+    box-shadow: 1px 1px 1px 1px black;
+    background-color: darkgrey;
+}
+.b:hover{
+    background-color: lightgrey;
+}
+.b:focus{
+    background-color: slategrey;
+border-style: none;}
+.cal h1{
+    text-align: center;
+    color: black;
+}
